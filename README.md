@@ -1,5 +1,11 @@
-<h1 align="center"> Hello, :v: I'm Den </h1>
+<h1 align="center"> Hello, I'm Den :v: Glad to see you here!</h1>
+<h3 align="center"> Backend Python Developer </h3>
 
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!--
 **Den4u/Den4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
