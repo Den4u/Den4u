@@ -1,10 +1,10 @@
 <h1 align="center"> Hello, I'm Den :v: Glad to see you here!</h1>
 <h3 align="center"> Backend Python Developer </h3>
 
-All of my projects are available at: https://github.com/Den4u?tab=repositories
+• :open_file_folder: All of my projects are available at: https://github.com/Den4u?tab=repositories
 <br />
 <br />
-How to reach me: den4uuu@gmail.com
+• :email: How to reach me: den4uuu@gmail.com
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
