@@ -33,7 +33,7 @@ How to reach me: den4uuu@gmail.com
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Den4u/Den4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
