@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Den :v: Glad to see you here!</h1>
-<h3 align="center"> Backend Python Developer </h3>
+<h3 align="center"> Python Developer </h3>
 
 • :open_file_folder: All of my projects are available at: https://github.com/Den4u?tab=repositories
 <br />
