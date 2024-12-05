@@ -36,7 +36,7 @@ Languages and Tools: <br />
 </div>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den4u&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den4u&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den4u&show_icons=true&bg_color=00000000)
 <br />
 ![](https://komarev.com/ghpvc/?username=den4u)
