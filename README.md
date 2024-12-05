@@ -30,6 +30,6 @@ Languages and Tools: <br />
 
 
 <div align="center">
-   <img src="https://giphy.com/gifs/lazy-corgi-AQ60Mqpz7sJLK4DiOW.gif" width="480" height="480"/>
+   <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif" width="480" height="480"/>
 </div>
 
