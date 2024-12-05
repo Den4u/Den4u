@@ -28,16 +28,15 @@ Languages and Tools: <br />
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br />
-<br />
-<div align="center">
-   <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif" width="480" height="480"/>
-</div>
-<br />
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den4u&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den4u&show_icons=true&bg_color=00000000)
 <br />
 ![](https://komarev.com/ghpvc/?username=den4u)
+<br />
+<div align="center">
+   <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif" width="480" height="480"/>
+</div>
+
 
 
 
