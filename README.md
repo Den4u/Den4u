@@ -28,6 +28,9 @@ Languages and Tools: <br />
 <br />
 ![](https://komarev.com/ghpvc/?username=den4u)
 
+
+
+<iframe src="https://giphy.com/embed/AQ60Mqpz7sJLK4DiOW" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lazy-corgi-AQ60Mqpz7sJLK4DiOW">via GIPHY</a></p>
 <!--
 **Den4u/Den4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
