@@ -30,5 +30,7 @@ Languages and Tools: <br />
 
 
 <div align="center">
-  <img src="https://giphy.com/gifs/lazy-corgi-AQ60Mqpz7sJLK4DiOW"
+  <img src="https://giphy.com/gifs/lazy-corgi-AQ60Mqpz7sJLK4DiOW" width="480" height="480"/>
     </div>
+
+<iframe src="https://giphy.com/embed/AQ60Mqpz7sJLK4DiOW" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lazy-corgi-AQ60Mqpz7sJLK4DiOW">via GIPHY</a></p>
