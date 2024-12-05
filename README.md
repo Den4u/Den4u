@@ -6,7 +6,6 @@
 • :email: How to reach me: den4uuu@gmail.com
 <br />
 Languages and Tools: <br /> 
-<br />
 <br> <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif" alt="image" align="right"/> ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
@@ -40,6 +39,7 @@ Languages and Tools: <br />
 
 
 
+<div align="center">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den4u&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,7 +48,7 @@ Languages and Tools: <br />
 ![](https://komarev.com/ghpvc/?username=den4u)
 
 
-
+</div>
 
 
 
