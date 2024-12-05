@@ -3,9 +3,7 @@
 
 • :open_file_folder: All of my projects are available at: https://github.com/Den4u?tab=repositories
 <br />
-<br />
 • :email: How to reach me: den4uuu@gmail.com
-<br />
 <br />
 Languages and Tools: <br /> 
 <br />
@@ -34,10 +32,7 @@ Languages and Tools: <br />
 <div align="center">
    <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif" width="480" height="480"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den4u&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den4u&show_icons=true&bg_color=00000000)
-<br />
-![](https://komarev.com/ghpvc/?username=den4u)
+
 
 
 
